@@ -26,7 +26,6 @@ Siu:
 - S14 - Notification of appointment modification
 - S15 - Notification of appointment cancellation
 - S17 - Notification of appointment deletion
-- S26 - Notification that patient did not show up for scheduled appointment
 ```
 
 
